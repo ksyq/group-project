@@ -2,5 +2,5 @@
 
 Wednesday
 
-Contributed to by Jane Doe, Code Ninja
-Contribued to by Abnel Franquez
+Contributed to by Abnel Franquez
+
